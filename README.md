@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou a Tiane Matos! 👋</h1>
+  <h1>Olá, eu sou a Tiane! 👋</h1>
   <p><b>Engenheira de Software | Desenvolvedora Full Stack em Ascensão</b></p>
   <p>📍 Aracaju, SE</p>
 </div>
